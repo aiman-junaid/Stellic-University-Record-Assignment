@@ -1,6 +1,6 @@
 # University Student Record
 
-## You can follow these steps to run the project:
+#### You can follow these steps to run the project:
 
 ## 1. Install the required dependencies: Open a command prompt or terminal window, navigate to the project directory, and run the command 
 ``` pip install -r requirements.txt ```
