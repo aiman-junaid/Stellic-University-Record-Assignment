@@ -17,6 +17,6 @@
 ``` python manage.py runserver```
 
 
-#### 4. Test the project: Open a web browser and go to the URL " http://127.0.0.1:8000/UniversityRecord/transform_csv"
+#### 4. Test the project: Open a web browser and go to the URL " http://127.0.0.1:8000/UniversityRecord/transform_csv/"
 
 #### 5. The following message will appear on your browser: "Data Stored Successfully!"
