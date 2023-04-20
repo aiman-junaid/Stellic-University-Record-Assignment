@@ -7,7 +7,7 @@
 ``` pip install -r requirements.txt ```
 
 
-#### 2. Set up the database: Open the project's settings file and enter the database settings to connect with your mySQL database (e.g. the correct database engine, username, password, and database name are specified). Then, run the following command to create the database tables.
+#### 2. Set up the database: Open the StudentRecord project folder and navigate to settings.py file, Enter the database settings to connect with your mySQL database (i.e. the correct database engine, username, password, and database name). Then, run the following command to create the database tables.
 
 ```  python manage.py migrate ```
 
